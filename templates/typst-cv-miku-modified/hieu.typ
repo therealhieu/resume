@@ -38,7 +38,7 @@
 )
 
 #chiline()
-Ambitous and enthusiastic Data Engineer with 2 years of experience in developing data pipelines and working with cloud technologies. I am passionate about building data products, solving technical and business problems, and utilizing both open-source and proprietary technologies to deliver the best solutions.
+Ambitious and enthusiastic Data Engineer with 2 years of experience in developing data pipelines and working with cloud technologies. I am passionate about building data products, solving technical and business problems, and utilizing both open-source and proprietary technologies to deliver the best solutions.
 
 // Experience
 #let experience = [
