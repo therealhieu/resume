@@ -44,12 +44,22 @@ Ambitious and enthusiastic Data Engineer with 2 years of experience in developin
 #let experience = [
   #datedsubsection(
     align(left)[
+      *Career break* \
+      - Addressed health concerns and achieved full recovery.
+      - Continuously engaged in self-learning and coding exercises.
+    ],
+    align(right)[
+      Aug 20223 - Present
+    ]
+  ) 
+  #datedsubsection(
+    align(left)[
       *Fossil Group, Inc* \
       _Data Engineer_ \
     Engineering:
     - Engaged directly in Data Platform to do ETL, data validation and monitoring.
     - Developed an ingestion API in Rust for mobile apps and watch apps to send data to Kafka. Some Rust crates used: actix-web, kafka-rust.
-    - A core member to rebuild Python-based Data Platform in Rust. Performance was improved by 10x in production. Some Rust crates used: arrow2, polars, duckdb-rs, tokio, tower, pyo3.
+    - Was a core member to rebuild Python-based Data Platform in Rust. Performance was improved by 10x in production. Typical Rust crates used: arrow2, polars, duckdb-rs, tokio, tower, pyo3.
     - Technologies: Kafka, S3, Redshift, BigQuery, Airflow, Spark, Great Expectations, Grafana
     Analytics:
     - Worked closely with Product team to define app tracking events and build dashboards.
