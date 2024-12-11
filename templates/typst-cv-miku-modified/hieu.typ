@@ -60,7 +60,7 @@ Ambitious and enthusiastic Data Engineer with 2 years of experience in developin
     - Engaged directly in Data Platform to do ETL, data validation and monitoring.
     - Developed an ingestion API in Rust for mobile apps and watch apps to send data to Kafka. Some Rust crates used: actix-web, kafka-rust.
     - Was a core member to rebuild Python-based Data Platform in Rust. Performance was improved by 10x in production. Typical Rust crates used: arrow2, polars, duckdb-rs, tokio, tower, pyo3.
-    - Technologies: Kafka, S3, Redshift, BigQuery, Airflow, Spark, Great Expectations, Grafana
+    - Technologies: Kafka, S3, Redshift, BigQuery, Airflow, Great Expectations, Grafana
     Analytics:
     - Worked closely with Product team to define app tracking events and build dashboards.
     - Technologies: Data Studio, BigQuery, Redshift, Athena.
@@ -123,7 +123,7 @@ Ambitious and enthusiastic Data Engineer with 2 years of experience in developin
 
 // Skills
 #let skills = [
-  *Data Engineering:* Python, Rust, SQL, Airflow, Kafka, Spark, AWS (S3, SQS, Athena, Redshift).\
+  *Data Engineering:* Python, Rust, SQL, Airflow, Kafka, AWS (S3, SQS, Athena, Redshift).\
   *DevOps:* CI/CD, Docker, Kubernetes.
 ]
 
