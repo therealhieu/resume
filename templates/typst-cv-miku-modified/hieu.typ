@@ -11,7 +11,7 @@
 
 #let home = [
   #icon("assets/home.svg")
-  #link("https://therealhieu.com")[ thereahieu.com ]
+  #link("https://therealhieu.com")[ therealhieu.com ]
 ]
 
 #let github = [
@@ -37,7 +37,7 @@
   author: author,
 )
 
-#chiline()
+// #chiline()
 Ambitious and enthusiastic Data Engineer with 2 years of experience in developing data pipelines and working with cloud technologies. I am passionate about building data products, solving technical and business problems, and utilizing both open-source and proprietary technologies to deliver the best solutions.
 
 // Experience
@@ -49,7 +49,7 @@ Ambitious and enthusiastic Data Engineer with 2 years of experience in developin
       - Continuously engaged in self-learning and coding exercises.
     ],
     align(right)[
-      Aug 20223 - Present
+      Aug 2023 - Present
     ]
   ) 
   #datedsubsection(
@@ -86,6 +86,9 @@ Ambitious and enthusiastic Data Engineer with 2 years of experience in developin
     align(left)[
       *Agilsun Co., LTD* \
       _Web Developer Intern_ \
+      - Developed and maintained web applications using modern JavaScript frameworks
+      - Implemented responsive designs and RESTful APIs
+
     ],
     align(right)[
       Ho Chi Minh, Vietnam \
@@ -98,10 +101,10 @@ Ambitious and enthusiastic Data Engineer with 2 years of experience in developin
 #let education = [
   #datedsubsection(
     align(left)[
-      *HCMVNU- Univerisity of Information Technology* \
+      *HCMVNU- University of Information Technology* \
       _Bachelor of Engineering, Information system_ \
       GPA: 9.1/10 \
-      Thesis: Constructing knowledege graphs with triple \ extraction techniques
+      Thesis: Constructing knowledge graphs with triple extraction techniques
     ],
     align(right)[
       Ho Chi Minh, Vietnam \
@@ -120,7 +123,6 @@ Ambitious and enthusiastic Data Engineer with 2 years of experience in developin
     ]
   )
 ]
-
 // Skills
 #let skills = [
   *Data Engineering:* Python, Rust, SQL, Airflow, Kafka, AWS (S3, SQS, Athena, Redshift).\
